@@ -29,7 +29,7 @@
 
 ## 📫 Reach Me
 - 📧 [Gmail](panwarjayesh2003@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jayeshpanwar)  
+- 💼 [LinkedIn](www.linkedin.com/in/jayesh-panwar-a67193277)  
 
 ---
 
