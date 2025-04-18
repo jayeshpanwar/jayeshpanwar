@@ -29,9 +29,10 @@
 
 ## 📫 Reach Me
 - 📧 [Gmail](panwarjayesh2003@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/jayesh-panwar-a67193277)  
+- 💼 [LinkedIn](www.linkedin.com/in/jayesh-panwar)  
 
 ---
+
 
 _“Code. Learn. Grow.”_
 
