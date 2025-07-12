@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Jayesh Panwar<br><br>
 
 ---
-🎓 ***3rd Year Computer Science Student** | 💻 **Java & MERN Stack Developer** | 🚀 **Aspiring Software Engineer***
+🎓 ***3rd Year Computer Science Student** | 💻 **Java  Developer** | 🚀 **Aspiring Software Engineer***
 🔍 Actively preparing for tech placements | 💡 Passionate about building impactful web applications
 📍 Based in Indore, India
 ---
