@@ -39,15 +39,17 @@ I'm a curious and driven developer who enjoys solving real-world problems throug
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  
-  
+  </a> 
 </p>
 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+</br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpanwar&theme=dark" alt="jayeshpanwar" /></p>
+</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayeshpanwar&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
@@ -59,6 +61,6 @@ I'm a curious and driven developer who enjoys solving real-world problems throug
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshpanwar&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayeshpanwar&icon=5&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
