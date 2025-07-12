@@ -7,7 +7,7 @@
 📍 Based in Indore, India
 ---
 
-I'm a curious and driven developer who enjoys solving real-world problems through clean, efficient code. Currently focused on mastering **Data Structures & Algorithms** and full-stack development with the **MERN stack**. Always open to learning new technologies and contributing to meaningful projects.
+I'm a curious and driven developer who enjoys solving real-world problems through clean, efficient code. Currently focused on mastering **Data Structures & Algorithms** and  **JAVA DEVELOPMENT**. Always open to learning new technologies and contributing to meaningful projects.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jayeshpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="Kthombare-dev" /> 
